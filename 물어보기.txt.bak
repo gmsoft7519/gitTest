@@ -1,0 +1,13 @@
+SELECT 
+  a.`필드4` AS sex1,
+  if(a.`필드4` = '여 ', 'M', 'W') AS FIELD_1,
+  a.`필드2` AS REG_DATE,
+  a.`필드3` AS Name,
+  a.ID,
+  a.`필드37`
+FROM
+  xls_custlist a
+WHERE
+  a.`필드32` IS NOT NULL
+
+LIMIT 30
