@@ -11,10 +11,18 @@ WHERE
   a.`필드32` IS NOT NULL
 
 LIMIT 30
-
+dfdsfdsfdsdsds
 
 111111111111111111
 
 2222222222222222222222222
 
-3333
+3333dsfsdfdsfsd
+]dsfasd
+f
+asdf
+sdaf
+sda
+fsd
+fsd
+호랑이 
